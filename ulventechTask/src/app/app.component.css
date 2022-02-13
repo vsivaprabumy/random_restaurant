@@ -1,0 +1,24 @@
+.custom-textarea {
+  outline: none;
+  resize: none;
+  border-right: 0;
+}
+
+.count-div {
+  height: 34px;
+  width: 20px;
+  border: 1px solid rgb(169, 169, 169);
+  color: grey;
+  font-size: 14px;
+  border-left: 0;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.count-text {
+  margin-top: 15px;
+}
+
+.display-flex {
+  display: flex;
+}
